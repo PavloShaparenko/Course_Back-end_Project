@@ -6,7 +6,7 @@ pool.connect({
     port: 5432,
     database: "socialnetwork",
     user: "postgres",
-    password: "*****",
+    password: "PavlikPostgree",
 })
 
     .then(() => {
