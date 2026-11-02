@@ -9,7 +9,7 @@ beforeAll(() => {
         port: 5432,
         database: "socialnetwork-test",
         user: "postgres",
-        password: "PavlikPostgree",
+        password: "******",
     });
 });
 
